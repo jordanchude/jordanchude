@@ -1,5 +1,5 @@
 # <div align="center">Jordan Williams 👨🏾‍💻 </div> #
-## <div align="center"> Full Stack Software Engineer </div> ##
+## <div align="center"> Full Stack Software Engineer <br> <a href="mailto:jordan@chude.co"> jordan@chude.co </a> • <a href=https://linkedin.com/in/jordanchude>LinkedIn</a> </div> ##
 
 
 ### About Me 
