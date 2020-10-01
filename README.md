@@ -7,11 +7,11 @@
 I am a software engineer with a background in the music industry. At my core, I am an organized thinker that loves problem solving. While in music, I developed both of these skills through finding creative and efficient ways to bring artists to market and, as a software engineer, I utilize these skills through creative and efficient ways to develop reliable applications. I am passionate about contributing to work that I am proud of and that benefits society, and look forward to life's challenges or error messages as an opportunity for growth.
 
 
-### Skills ###
-**LANGUAGES**: HTML5, CSS, Javascript, Ruby, Python
+### SKILLS ###
+• **LANGUAGES**: HTML5, CSS, Javascript, Ruby, Python
 
-**FRAMEWORKS**: Node.js, Express.js, Vue.js, jQuery, Bootstrap 4, Ruby on Rails, Django.
+• **FRAMEWORKS**: Node.js, Express.js, Vue.js, jQuery, Bootstrap 4, Ruby on Rails, Django.
 
-**DATABASES**: MongoDB, Mongoose, Mongo Atlas, PostgreSQL
+• **DATABASES**: MongoDB, Mongoose, Mongo Atlas, PostgreSQL
 
-**TOOLS & SKILLS**: Git, Github, Heroku, Netlify, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API Development, Wireframing, Responsive Web Design
+• **TOOLS & SKILLS**: Git, Github, Heroku, Netlify, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API Development, Wireframing, Responsive Web Design
