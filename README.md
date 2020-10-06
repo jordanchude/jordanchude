@@ -13,4 +13,4 @@ I am a software engineer with a background in the music industry. At my core, I 
 
 **DATABASES**: MongoDB, Mongoose, Mongo Atlas, PostgreSQL
 
-**TOOLS & SKILLS**: Git, Github, Heroku, Netlify, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API Development, Wireframing, Responsive Web Design
+**TOOLS & SKILLS**: Git/Github, Heroku, Netlify, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API Development, Wireframing, Responsive Web Design
