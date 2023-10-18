@@ -1,14 +1,10 @@
 # <div align="center">Jordan Williams </div> #
 ## <div align="center"> Full Stack Software Engineer 👨🏾‍💻  <br> </div> ##
 
-### <div align="center"> Connect 🔌 <br> <a href="mailto:jordan@chude.co"> Email </a> • <a href=https://linkedin.com/in/jordanchude>LinkedIn</a> • <a href="https://www.dropbox.com/s/kp7dkw33q93sm77/JORDAN%20CHUDE%20WILLIAMS.pdf?dl=0">Resumé</a> • <a href=https://chude.dev>Website</a> </div> ###
+### <div align="center"> Connect 🔌 <br> <a href="mailto:jordan@chude.co"> Email </a> • <a href=https://linkedin.com/in/jordanchude>LinkedIn</a> • <a href="https://www.dropbox.com/scl/fi/3eawctrsn5kl3kkeuad7m/JordanChudeWilliams_resume.pdf?rlkey=vmc3byr8s8nyeeg0ocnzc8ohy&dl=0">Resumé</a> • <a href=https://chude.dev>Website</a> </div> ###
 
 ### About Me 
-I am a Software Engineer, Sr. Manager, Creator Acquisition and Development at Twitch, and podcast host with a background in the music industry. At my core, I am an organized thinker that loves problem-solving.
-
-While in music, I developed both of these skills by finding creative and efficient ways to bring artists to market, and at Twitch, I utilize these skills to help our partners find success on the service. As an engineer, I apply them through innovative and productive ways to develop applications. As a podcast host, I have 80+ episodes and two years of experience interviewing the music industry’s most innovative minds and building a community of engaged listeners.
-
-I am devoted to contributing to work that I am proud of and benefits society, and I look forward to life's challenges or error messages as an opportunity for growth.
+Jordan is a self-taught Software Engineer and coding boot camp graduate, currently excelling as a Sr. Program Manager in Creator Acquisition and Development. In his role, he leads crucial initiatives to expand the creator base, develops React/Node and Python applications to optimize operational efficiency, and directly conveys user-centric insights to the Product and Strategy teams. His extensive background in the music industry gives him unique insights into client relationship management and innovation. Jordan is deeply passionate about crafting meaningful user experiences, promoting diversity in tech, and relentlessly exploring technological advancements.
 
 
 **LANGUAGES**: HTML5, CSS, JavaScript, Python <br>
